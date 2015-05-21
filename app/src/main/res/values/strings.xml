@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">runtastic</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <color name="blue">#1a3369</color>
+    <color name="blueDark">#0d1a36</color>
+    <color name="orange">#ff9f00</color>
+    <color name="orangeDark">#734100</color>
+    <color name="white">#f5f0df</color>
+    <color name="grey">#363837</color>
+</resources>
